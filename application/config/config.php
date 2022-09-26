@@ -35,7 +35,7 @@ $config['base_url'] = 'htpps://localhost/CI-PROJECT';
 | variable so that it is blank.
 |
 */
-$config['index_page'] = 'index.php';
+$config['index_page'] = '';
 
 /*
 |--------------------------------------------------------------------------
